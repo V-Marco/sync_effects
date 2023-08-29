@@ -1,0 +1,8 @@
+{   
+    "data_folder": "../data/names",
+    "output_folder": "output",
+    "n_hidden": 128,
+    "n_epochs": 100000,
+    "lr": 0.005,
+    "plot_every": 1000
+}
